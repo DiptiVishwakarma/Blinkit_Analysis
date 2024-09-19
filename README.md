@@ -9,6 +9,9 @@ and vsuaizations in Power Bi.
 **KPI's Requirements**
 
 Total sales: The overall revenue generated from all items sold.
+
 Average sales: The average revenue per sale.
+
 Number of items: The total count of different items sold.
+
 Average Rating: The average customer rating for items sold.
